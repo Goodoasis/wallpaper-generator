@@ -10,7 +10,7 @@ import streamlit as st
 
 @st.cache(show_spinner=False)
 def get_palettesColors():
-    with open("data\colors.json", 'r') as f:
+    with open("data/colors.json", 'r') as f:
         data = json.load(f)
     return data
 
