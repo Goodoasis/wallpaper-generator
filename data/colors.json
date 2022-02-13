@@ -1,0 +1,60 @@
+{
+    "Coffee" : {
+        "almond": "#ede0d4",
+        "desert-sand": "#e6ccb2",
+        "tan": "#ddb892",
+        "cafe-au-lait": "#b08968",
+        "coffee": "#7f5539",
+        "brown-sugar": "#9c6644"
+    },
+    "Cup-Cake" : {
+        "cotton-candy": "#fdc5f5",
+        "mauve": "#f7aef8",
+        "lavender-floral": "#b388eb",
+        "cornflower-blue": "#8093f1",
+        "sky-blue-crayola": "#72ddf7"
+    },
+    "Garden" : {
+        "light-cyan": "#cffcff",
+        "magic-mint": "#aaefdf",
+        "light-green": "#9ee37d",
+        "kelly-green": "#63c132",
+        "india-green": "#358600ff"
+    },
+    "Kill Bill" : {
+        "black": "#000000",
+        "oxford-blue": "#14213d",
+        "orange-web": "#fca311",
+        "platinum": "#e5e5e5",
+        "white": "#ffffff"
+    },
+    "Pastelle" : {
+        "0": "#7cb8e6",
+        "1": "#a587e8",
+        "3": "#e687ba",
+        "4": "#c0f59d",
+        "5": "#f5ef9d",
+        "6": "#f5a09d",
+        "7": "#b49df5",
+        "8": "#f8f7fa"
+    },
+    "Sky" : {
+        "flickr-pink": "#f72585",
+        "byzantine": "#b5179e",
+        "purple": "#7209b7",
+        "purple-2": "#560bad",
+        "trypan-blue": "#480ca8",
+        "trypan-blue-2": "#3a0ca3",
+        "persian-blue": "#3f37c9",
+        "ultramarine-blue": "#4361ee",
+        "dodger-blue": "#4895ef",
+        "vivid-sky-blue": "#4cc9f0"
+    },
+    "Summer" : {
+        "amethyst": "#9b5de5",
+        "magenta-crayola": "#f15bb5",
+        "minion-yellow": "#fee440",
+        "capri": "#00bbf9",
+        "sea-green-crayola": "#00f5d4"
+    }
+}
